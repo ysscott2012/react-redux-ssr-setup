@@ -1,4 +1,6 @@
 # react-redux-ssr-setup
 React with redux server side rendering setup
 
-React server side rendering setup project. 
+Using  ```npm run start-ssr``` to start server side rendering.
+Using ``` npm run start-csr``` to start client side rendering. 
+
